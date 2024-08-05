@@ -1,0 +1,47 @@
+.help{
+padding: 80px 40px 100px 40px;
+}
+
+.wrapper__help{
+    display: flex;
+    flex-direction: column;
+}
+
+.icons_container{
+    display: flex;
+    flex-direction: column;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.header_help{
+    padding-top: 80px;
+    text-align: center;
+}
+
+.icons_top{
+    display: flex;
+    padding: 60px 87px 0 87px;
+    justify-content: space-between;
+}
+
+.icons_bottom{
+    display: flex;
+    padding: 60px 87px 0 87px;
+    justify-content: space-between;
+}
+
+.icons{
+  
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+
+.text_icons{
+    font-family: Georgia;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.06em;
+    text-align: center
+}

@@ -1,0 +1,34 @@
+.wrapper{
+    max-width: $content-width;
+    margin:auto;
+}
+
+.header__wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.wrapper__not-only{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 90px;
+}
+
+
+
+.wrapper_about-shelter{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+
+
+
+
+

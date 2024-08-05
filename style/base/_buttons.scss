@@ -1,0 +1,57 @@
+
+
+.button{
+    border-radius: 100px;
+    padding: 15px 45px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.main__button{
+    background-color: $color-main;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 17px;
+    border: none;
+    
+    
+}
+.main__button:hover{
+    background-color: $color-hover;
+}
+
+.button__more{
+    background-color: Transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 17px;
+    border: 2px solid;
+    border-color: $color-main;
+    padding: 15px 45px;
+    width: 187px;
+    height: 52px;
+}
+.button__more:hover{
+    background-color: $color-hover;
+    border: none;
+}
+
+.button_get{
+    font-family: Georgia, 'Times New Roman', Times, serif;;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    background-color: $color-main;
+    border:none;
+    margin-top: 59px;
+    width: 100%;
+    text-align: center;
+    align-self: center;
+   
+    
+    
+}
+.button_get:hover{
+    background-color: $color-hover;
+}
